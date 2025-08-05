@@ -1,5 +1,5 @@
 ---
-title: Your title here
+title: Stephen Nzioka Title here
 sidebar: true
 header: top
 footer: bottom
