@@ -2,7 +2,7 @@
 
 describe your website here
 
-view this website online at <https://lsc-hubs.github.io/quarto-template>
+view this website online at <https://stephenzioka.github.io/quarto-template/>
 
 ---
 
